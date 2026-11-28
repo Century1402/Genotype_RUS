@@ -14,7 +14,7 @@
 
 ## 📥 Скачать
 Актуальную версию русификатора всегда можно скачать на странице релизов:
-👉 **[Скачать GenotypeRus.zip (Releases)](https://github.com)**
+👉 **[Скачать GenotypeRus.zip (Releases)](https://github.com/Century1402/Genotype_RUS/releases)** 
 
 ---
 
